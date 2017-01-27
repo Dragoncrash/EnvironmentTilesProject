@@ -92,6 +92,12 @@
             "_comment": "Env_Tile"
         },
         {
+            "Path": "Gems/Environment_Tile_System_v2",
+            "Uuid": "af4435841bcf4e6f8c84b7188a870b6e",
+            "Version": "0.1.0",
+            "_comment": "Environment_Tile_System_v2"
+        },
+        {
             "Path": "Gems/UserLoginDefault",
             "Uuid": "c9c25313197f489a8e9e8e6037fc62eb",
             "Version": "0.1.0",
